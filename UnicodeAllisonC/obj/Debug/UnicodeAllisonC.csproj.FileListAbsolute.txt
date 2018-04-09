@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\UnicodeAllisonC\UnicodeAllisonC\bin\Debug\UnicodeAllisonC.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\UnicodeAllisonC\UnicodeAllisonC\bin\Debug\UnicodeAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\UnicodeAllisonC\UnicodeAllisonC\bin\Debug\UnicodeAllisonC.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\UnicodeAllisonC\UnicodeAllisonC\obj\Debug\UnicodeAllisonC.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\UnicodeAllisonC\UnicodeAllisonC\obj\Debug\UnicodeAllisonC.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\UnicodeAllisonC\UnicodeAllisonC\obj\Debug\UnicodeAllisonC.frmUnicode.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\UnicodeAllisonC\UnicodeAllisonC\obj\Debug\UnicodeAllisonC.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\UnicodeAllisonC\UnicodeAllisonC\obj\Debug\UnicodeAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\UnicodeAllisonC\UnicodeAllisonC\obj\Debug\UnicodeAllisonC.pdb
