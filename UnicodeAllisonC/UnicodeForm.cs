@@ -36,6 +36,10 @@ namespace UnicodeAllisonC
             //looping throught letters A(65) to Z(90)
             for (counter = 65; counter <= 90; counter++)
             {
+                letter = Char.ConvertFromUtf32(counter);
+
+                //display the letter
+                lstNumber.Items.Add(letter + "->" + counter);
 
             }
 
